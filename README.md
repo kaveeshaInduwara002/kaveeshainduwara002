@@ -1,5 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=0D0D0D&height=200&section=header&text=Kaveesha%20Induwara&fontColor=00FF41&fontSize=55&fontAlignY=55&desc=Cyber%20Security%20Undergraduate&descColor=00FF41&descSize=18&descAlignY=75&animation=fadeIn)
+
 ```
 ██╗  ██╗ █████╗ ██╗   ██╗███████╗███████╗███████╗██╗  ██╗ █████╗
 ██║ ██╔╝██╔══██╗██║   ██║██╔════╝██╔════╝██╔════╝██║  ██║██╔══██╗
@@ -11,9 +13,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1000&color=00FF41&background=0D0D0D&center=true&vCenter=true&width=750&height=120&lines=C%3A%5CUsers%5CKaveesha%3E+whoami;%3E+Kaveesha+Induwara;C%3A%5CUsers%5CKaveesha%3E+net+user+%2Frole;%3E+Cyber+Security+Undergraduate;C%3A%5CUsers%5CKaveesha%3E+query+specialization;%3E+Ethical+Hacking+%7C+Pen+Testing+%7C+CTF;C%3A%5CUsers%5CKaveesha%3E+echo+mission;%3E+Securing+the+digital+world%2C+one+exploit+at+a+time." alt="Typing SVG" />
 
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Hacking GIF" />
 
 <br/>
 
@@ -173,5 +172,6 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0D0D0D&height=120&section=footer&animation=fadeIn)
