@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=%5BROOT%40KAVEEESHA%5D+%24+whoami;Cyber+Security+Undergraduate+%F0%9F%94%90;Ethical+Hacker+in+Training+%F0%9F%AA%96;CTF+Player+%7C+Penetration+Tester+%F0%9F%92%BB;Securing+the+Digital+World%2C+One+Exploit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=0D0D0D&center=true&vCenter=true&width=750&height=120&lines=C%3A%5CUsers%5CKaveesha%3E+whoami;%3E+Kaveesha+Induwara;C%3A%5CUsers%5CKaveesha%3E+net+user+%2Frole;%3E+Cyber+Security+Undergraduate;C%3A%5CUsers%5CKaveesha%3E+query+specialization;%3E+Ethical+Hacking+%7C+Pen+Testing+%7C+CTF;C%3A%5CUsers%5CKaveesha%3E+echo+mission;%3E+Securing+the+digital+world%2C+one+exploit+at+a+time." alt="Typing SVG" />
 
 <br/>
 
@@ -136,24 +136,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaveeshaInduwara002&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaveeshaInduwara002/kaveeshaInduwara002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚙️ *To enable the snake animation, go to your repo → **Actions** → enable the workflow → run it manually once.*
-
----
-
 ### 📡 Activity Graph
 
 <div align="center">
@@ -187,7 +169,5 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-00FF41?style=flat-square)
-![](https://img.shields.io/badge/Powered%20by-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 </div>
